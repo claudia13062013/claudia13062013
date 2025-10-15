@@ -1,7 +1,7 @@
-* 👋 Hi, I’m @claudia13062013
-* 👀 I’m interested in Machine Learning, AI, Data Science and everything around it
-* 🌱 I’m currently working on  Data Science PROJECTS and improving my ~~ Math,Coding Skills ~~
-* 💞️ I’m looking for internships / projects for a Junior :)
+## Hi, I'm Claudia 👋  
+I'm a psychology student with a passion for data and insights.  
+Skilled in Python (Pandas, Matplotlib, Seaborn), SQL and data visualization.  
+💞️ I'm currently looking for my first role as a Junior Data Analyst. 
 * 📫 MY EMAIL:kalafejo@gmail.com
 *  🙋‍♀️ 😁 Feel free to contact me via email
 <!---
